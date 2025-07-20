@@ -3,6 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
+This is about me. Edit this in the about.md file.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+All original articles are available under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
